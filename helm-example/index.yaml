@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  ibm-mqadvanced-server-ams:
+  - apiVersion: v1
+    created: 2019-04-01T11:31:44.043+05:30
+    description: IBM MQ queue manager
+    digest: 7197587fc6b0bb3287a4c27532be865aa0a8ef4c6bacd52a064f53220bbd6b3c
+    icon: https://developer.ibm.com/messaging/wp-content/uploads/sites/18/2018/03/ibm_mq_32.png
+    name: ibm-mqadvanced-server-ams
+    tillerVersion: '>=2.4.0'
+    urls:
+    - http://parasmamgain.github.io/helm-example/ibm-mqadvanced-server-ams-1.3.0.tgz
+    version: 1.3.0
+generated: 2019-04-01T11:31:44.04+05:30
